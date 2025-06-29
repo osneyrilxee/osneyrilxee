@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Rilxee</h1>
+<h3 align="center">Web Development</h3>
 
-<!--
-**osneyrilxee/osneyrilxee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+📍 **From:** France 🇫🇷  
+💻 **Specializing in:** nothing right now  
+🌐 **Languages:** French, English, Italian, Korean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ GOALS
+- 🔐 Ethical Hacker
+- 🧠 Security Researcher
+- 🖥️ Full Stack Developer
+- ☁️ DevOps Engineer
+- 🛠️ Security Architect
+
+### 📊 GitHub Stats
+- GitHub: [osneyrilxee](https://github.com/osneyrilxee)
