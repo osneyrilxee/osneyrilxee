@@ -29,7 +29,7 @@ ____
 
 ____
 
-<h3 align="center">🛡️ LANGUAGES</h3>
+<h3 align="center">✨ LANGUAGES</h3>
 <div align="center">
   <table>
   <thead>
