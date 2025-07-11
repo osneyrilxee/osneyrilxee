@@ -1,53 +1,81 @@
-<h1 align="center">Rilxee</h1>
-<h2 align="center">Web Development</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rilxee</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f9f9f9;
+    }
 
-____
+    table {
+      margin: 0 auto;
+      border-collapse: collapse;
+    }
 
-<h3 align="center">🛡️ GOALS</h3>
-<div align="center">
+    td {
+      padding: 10px 20px;
+    }
+
+    hr {
+      margin: 40px auto;
+      width: 80%;
+    }
+
+    @media (max-width: 600px) {
+      td {
+        display: block;
+        width: 100%;
+      }
+      table {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Rilxee</h1>
+  <h2>Web Development</h2>
+
+  <hr>
+
+  <h3>🛡️ GOALS</h3>
   <table>
-  <thead>
     <tr>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row">🔐 ETHICAL HACKER</td>
+      <td>🔐 ETHICAL HACKER</td>
       <td>🔍 SECURITY RESEARCHER</td>
     </tr>
     <tr>
-      <td scope="row">🖥️ FULL STACK DEVELOPER</td>
+      <td>🖥️ FULL STACK DEVELOPER</td>
       <td>☁️ DEVOPS ENGINEER</td>
     </tr>
     <tr>
-      <td scope="row">🌐 NETWORK SECURITY</td>
+      <td>🌐 NETWORK SECURITY</td>
       <td>🛠️ SECURITY ARCHITECT</td>
     </tr>
-  </tbody>
-</table>
-</div>
+  </table>
 
-____
+  <hr>
 
-<h3 align="center">✨ LANGUAGES</h3>
-<div align="center">
+  <h3>✨ LANGUAGES</h3>
   <table>
-  <thead>
     <tr>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row">French</td>
+      <td>French</td>
       <td>English</td>
       <td>Korean</td>
     </tr>
-  </tbody>
-</table>
-</div>
+  </table>
 
-____
-<div align="center">
-<h3>📊 GitHub Stats</h3>
-- GitHub: [osneyrilxee](https://github.com/osneyrilxee)
-</div>
+  <hr>
+
+  <h3>📊 GitHub Stats</h3>
+  <p>GitHub: <a href="https://github.com/osneyrilxee" target="_blank">osneyrilxee</a></p>
+
+</body>
+</html>
