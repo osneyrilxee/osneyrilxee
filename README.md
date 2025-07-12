@@ -13,7 +13,7 @@
     <td>🔍 Security Researcher</td>
   </tr>
   <tr>
-    <td>🖥️ Full Stack Developer</td>
+    <td>🖥️ Full Stack</td>
     <td>☁️ DevOps Engineer</td>
   </tr>
   <tr>
