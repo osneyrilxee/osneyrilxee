@@ -26,6 +26,20 @@
 
 ---
 
+<h3 align="center">Completed</h3>
+
+<p align="center">
+
+<table align="center">
+  <tr>
+    <td><a href="<img width="900" height="512" alt="image" src="https://github.com/user-attachments/assets/429641fa-fdf3-4c56-8897-2b33f052d0c0" alt="vscode logo"/></td>
+  </tr>
+</table>
+
+</p>
+
+---
+
 <h3 align="center">✨ LANGUAGES</h3>
 
 <p align="center">
