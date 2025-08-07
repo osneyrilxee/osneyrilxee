@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">Completed</h3>
+<h3 align="center">Competencies</h3>
 
 <p align="center">
 
@@ -41,6 +41,8 @@
     <td>Javascript</td>
     <td>React</td>
     <td>Python</td>
+    <td>Next.js</td>
+    <td>Vite.js</td>
   </tr>
 </table>
 
