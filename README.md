@@ -32,7 +32,15 @@
 
 <table align="center">
   <tr>
-    <td><a href="<img width="900" height="512" alt="image" src="https://github.com/user-attachments/assets/429641fa-fdf3-4c56-8897-2b33f052d0c0" alt="vscode logo"/></td>
+    <td>Visual Studio Code</td>
+    <td>PyCharm</td>
+    <td>Git</td>
+    <td>Github</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Javascript</td>
+    <td>React</td>
+    <td>Python</td>
   </tr>
 </table>
 
