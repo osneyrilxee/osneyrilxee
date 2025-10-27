@@ -128,5 +128,4 @@
 > - [ ] Photographer Website
 > - [ ] Python schedule manager
 > - [x] small videogame
-> - [ ] 
 
