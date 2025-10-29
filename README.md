@@ -125,7 +125,7 @@
 
 
 > [!IMPORTANT]
-> Projet under-development
+> Project under-development
 > - [x] Portfolio
 > - [ ] Distro linux (from nixOS or ArchLinux)
 > - [ ] Photographer Website
