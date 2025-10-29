@@ -1,6 +1,9 @@
-![#SeoulKoreaProject](https://img.shields.io/badge/%23SeoulKoreaProject%20🇰🇷-blue?style=for-the-badge)
-![#ParisFranceProject](https://img.shields.io/badge/%23ParisFranceProject%20🇫🇷-blue?style=for-the-badge)
-![#RomaItalyProject](https://img.shields.io/badge/%23RomaItalyProject%20🇮🇹-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-SeoulKorea_-Project?labelColor=%233b3b3b&color=%234d3066" alt="SeoulKoreaProject">
+  <img src="https://img.shields.io/badge/Project-RomaItaly_-Project?labelColor=%233b3b3b&color=%234d3066" alt="RomaItalyProject">
+  <img src="https://img.shields.io/badge/Project-ParisFrance_-Project?labelColor=%233b3b3b&color=%234d3066" alt="ParisFranceProject">
+</p>
+
 
 <h1 align="center">🎨 Dev Explorer</h1>
 
