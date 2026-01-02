@@ -16,7 +16,7 @@
 <h1 align="center">👋 Hey</h1>
 
 <p align="center">
-  My name is Rilxee, but people often call me JJ. Student of 17 years old I am studying cybersecurity, computer science and electronics.
+  My name is Rilxee, but people often call me JJ. Student of 18 years old I am studying cybersecurity, computer science and electronics.
   I am continuing to develop my skills, particularly in JavaScript, where I am seeking to acquire the skills needed to offer customers an optimal experience and design.
 
   <br><br>
@@ -127,8 +127,6 @@
 > [!IMPORTANT]
 > Project under-development
 > - [x] Portfolio
-> - [ ] Distro linux (from nixOS or ArchLinux)
 > - [ ] Photographer Website
-> - [ ] Python schedule manager
-> - [x] small videogame
+> - [x] Python schedule manager
 
