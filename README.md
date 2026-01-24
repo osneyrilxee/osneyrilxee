@@ -108,7 +108,7 @@
 
 ## 💽 Operating Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/ArchyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/HamoniKR-0033A0?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
