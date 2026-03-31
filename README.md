@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-SeoulKorea_-Project?labelColor=%233b3b3b&color=%234d3066" alt="SeoulKoreaProject">
-  <img src="https://img.shields.io/badge/Project-RomaItaly_-Project?labelColor=%233b3b3b&color=%234d3066" alt="RomaItalyProject">
-  <img src="https://img.shields.io/badge/Project-ParisFrance_-Project?labelColor=%233b3b3b&color=%234d3066" alt="ParisFranceProject">
+  <img src="https://img.shields.io/badge/Project-Creative_-Project?labelColor=%233b3b3b&color=%234d3066" alt="Creative">
+  <img src="https://img.shields.io/badge/Project-Original_-Project?labelColor=%233b3b3b&color=%234d3066" alt="Original">
+  <img src="https://img.shields.io/badge/Project-Design_-Project?labelColor=%233b3b3b&color=%234d3066" alt="Design">
 </p>
 
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   My name is Rilxee, but people often call me JJ. Student of 18 years old I am studying cybersecurity, computer science and electronics.
-  I am continuing to develop my skills, particularly in JavaScript, where I am seeking to acquire the skills needed to offer customers an optimal experience and design.
+  Now in rotation to creative industries I may use my skills as a web developer to create useful, aesthetic or fun user-centered websites and programs.
 
   <br><br>
 
@@ -29,7 +29,6 @@
     <tr>
       <td>French</td>
       <td>English</td>
-      <td>Korean</td>
     </tr>
   </table>
   </p>
