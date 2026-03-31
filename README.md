@@ -42,16 +42,20 @@
   
 <table align="center">
   <tr>
-    <td></td>
-    <td></td>
+    <td>🎞️ Post-Production</td>
+    <td>🎞️ Motion Design</td>
   </tr>
   <tr>
+    <td>🎧 Music Production</td>
+    <td>🧊 3D Design</td>
+  </tr>
+  <tr>
+    <td>🎨 Graphic Design</td>
     <td>🖥️ Full Stack</td>
-    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>🖌️ Digital Art</td>
+    <td>🌀 VFX</td>
   </tr>
 </table>
 
