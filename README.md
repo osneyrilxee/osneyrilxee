@@ -42,16 +42,16 @@
   
 <table align="center">
   <tr>
-    <td>🔐 Ethical Hacker</td>
-    <td>🔍 Security Researcher</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>🖥️ Full Stack</td>
-    <td>☁️ DevOps Engineer</td>
+    <td></td>
   </tr>
   <tr>
-    <td> 🌐 Network Security</td>
-    <td>🛠️ Security Architect</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
