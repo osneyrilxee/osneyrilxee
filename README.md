@@ -125,11 +125,3 @@
 
 > [!NOTE]
 > Portfolio under-construction: [osneyrilxee.me](https://tgsea.vercel.app)
-
-
-> [!IMPORTANT]
-> Project under-development
-> - [x] Portfolio
-> - [ ] Photographer Website
-> - [x] Python schedule manager
-
