@@ -8,7 +8,7 @@
 <h1 align="center">🎨 Dev Explorer</h1>
 
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/osneyrilxee/osneyrilxee/refs/heads/main/banner-github.jpg"/> -->
+  <img src="https://raw.githubusercontent.com/osneyrilxee/osneyrilxee/refs/heads/main/banner-github.jpg"/>
 </p>
 
 
