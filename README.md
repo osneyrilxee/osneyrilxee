@@ -23,7 +23,6 @@
   </p>
 
   <br><br>
-
 <h1 align="center">🛡️ GOALS</h1>
 
 <p align="center">
