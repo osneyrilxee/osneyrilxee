@@ -7,12 +7,6 @@
 
 <h1 align="center">🎨 Dev Explorer</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/osneyrilxee/osneyrilxee/refs/heads/main/summer.png"/>
-</p>
-
-
-
 <h1 align="center">👋 Hey</h1>
 
 <h1 align="center">✨ LANGUAGES</h1>
