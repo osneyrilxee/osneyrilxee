@@ -109,6 +109,3 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=osneyrilxee&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osneyrilxee&layout=compact&theme=midnight-purple)
-
-> [!NOTE]
-> Portfolio under-construction: [osneyrilxee.me](https://tgsea.vercel.app)
