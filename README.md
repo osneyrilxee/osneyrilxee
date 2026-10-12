@@ -17,6 +17,7 @@
     <tr>
       <td>French</td>
       <td>English</td>
+      <td>Korean</td>
     </tr>
   </table>
   </p>
