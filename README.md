@@ -15,12 +15,6 @@
 
 <h1 align="center">👋 Hey</h1>
 
-<p align="center">
-  My username is rilxee. Student of 18 years old I am studying cybersecurity, computer science and electronics.
-  Now in rotation to creative industries I may use my skills as a web developer to create useful, aesthetic or fun user-centered websites and programs.
-
-  <br><br>
-
 <h1 align="center">✨ LANGUAGES</h1>
 
 
