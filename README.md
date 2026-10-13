@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>🎨 Graphic Design</td>
-    <td>🖥️ </td>
+    <td>⚙️ Scripting & Tools</td>
   </tr>
   <tr>
     <td>🖌️ Digital Art</td>
