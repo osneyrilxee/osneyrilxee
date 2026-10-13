@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>🎨 Graphic Design</td>
-    <td>🖥️ Full Stack</td>
+    <td>🖥️ </td>
   </tr>
   <tr>
     <td>🖌️ Digital Art</td>
